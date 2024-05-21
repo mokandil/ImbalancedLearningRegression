@@ -48,8 +48,8 @@ https://link.springer.com/chapter/10.1007/978-3-031-26422-1_48
 ## install pypi release
 pip install ImbalancedLearningRegression
 
-## install developer version
-pip install git+https://github.com/paobranco/ImbalancedLearningRegression.git
+## install developer version 
+pip install git+https://github.com/mokandil/ImbalancedLearningRegression.git
 ```
 
 ## Usage
